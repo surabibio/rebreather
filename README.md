@@ -20,7 +20,7 @@ Rebreather | 1
 - We found increase in work of breathing as per clinical observation and volunteer feedback but due our limited setup we are not able to quantify in absolute terms. However this was not to a level of discomfort that made the volunteer reject the device.
 - We did a post exercise test (respiratory rate 20 BPM) and found that the device was able to sustain the respiratory needs of the adult volunteer.
 - Extended ventilation for 6 hrs using 2LPM atmospheric air did not product any discomfort nor any clinical signs of hypercapnia. Hence we are confident that 2kg Sodalime CO2 scrubber is able to wash out CO2 in the circuit to normal breathable levels.
-- We also believe that compared to the generally prevalent non-rebreather masks (such as Adlisc Oxygen mask with reservoir bag) our NIV mask can provide a Higher FiO2 due to the better facial fitment.
+- We also believe that compared to the generally prevalent non-rebreather masks (such as Adlisc Oxygen mask with reservoir bag) our NIV mask can provide a higher FiO2 due to the better facial fitment.
 
 **We are confident this device would be effective with patients on non-rebreather and standard oxygen masks. The savings in oxygen could be 15 fold.  A B-type cylinder that lasts for 1 hour on a non-rebreather mask could possibly be extended to 15 hours using this rebreather.**
 ### Bill of Materials
